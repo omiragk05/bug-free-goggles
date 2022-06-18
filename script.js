@@ -25,14 +25,7 @@ new Vue({
           url: "https://omirageevin.ml",
           favorited: false        
         },
-		{
-          name: "Calming Music",
-          artist: "Now Playing",
-          cover: "img/1.jpg",
-          source: "https://stream.zeno.fm/ty952pfa8f0uv",
-          url: "https://omirageevin.ml",
-          favorited: false
-        },
+	
 		{
           name: "Gota Go Gama FM",
           artist: "Now Playing",
@@ -97,14 +90,7 @@ new Vue({
           url: "https://omirageevin.ml",
           favorited: false
         },
-		{
-          name: "Vesak Radio",
-          artist: "Now Playing",
-          cover: "img/15.jpg",
-          source: "https://stream.zeno.fm/5cszcxtfyy8uv",
-          url: "https://omirageevin.ml",
-          favorited: false
-        },
+		
 		{
           name: "Songs By Bathiya and Santhush",
           artist: "BNS",
