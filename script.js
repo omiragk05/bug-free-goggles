@@ -34,64 +34,7 @@ new Vue({
           url: "https://omirageevin.ml",
           favorited: false
         },
-		{
-          name: "Hiru FM",
-          artist: "Now Playing",
-          cover: "img/5.jpg",
-          source: "https://stream.zeno.fm/49xrv7zbwp8uv",
-          url: "https://omirageevin.ml",
-          favorited: false
-        },
-		{
-          name: "Kiss FM",
-          artist: "Now Playing",
-          cover: "img/6.jpg",
-          source: "https://stream.zeno.fm/x1h80f5f4p8uv",
-          url: "https://omirageevin.ml",
-          favorited: false
-        },
-		{
-          name: "Neth FM",
-          artist: "Now Playing",
-          cover: "img/7.jpg",
-          source: "https://stream.zeno.fm/emgkfd4f4p8uv",
-          url: "https://omirageevin.ml",
-          favorited: false
-        },
-		{
-          name: "Shaa FM",
-          artist: "Now Playing",
-          cover: "img/8.jpg",
-          source: "https://stream.zeno.fm/mxt5kscg4p8uv",
-          url: "https://omirageevin.ml",
-          favorited: false
-        },
-		{
-          name: "Shree FM",
-          artist: "Now Playing",
-          cover: "img/9.jpg",
-          source: "https://stream.zeno.fm/g4n6x9xv0p8uv",
-          url: "https://omirageevin.ml",
-          favorited: false
-        },
-		{
-          name: "Sirasa FM",
-          artist: "Now Playing",
-          cover: "img/10.jpg",
-          source: "https://stream.zeno.fm/df20w9rv0p8uv",
-          url: "https://omirageevin.ml",
-          favorited: false
-        },
-		{
-          name: "Sitha FM",
-          artist: "Now Playing",
-          cover: "img/11.jpg",
-          source: "https://stream.zeno.fm/a6nynkrv0p8uv",
-          url: "https://omirageevin.ml",
-          favorited: false
-        },
-		
-		{
+	{
           name: "Songs By Bathiya and Santhush",
           artist: "BNS",
           cover: "img/16.jpg",
